@@ -1,10 +1,3 @@
-/*
-     Gehad Salem gq3384
-     timer.c
-NOTE: 
-remaining issues: pause / quit
-*/
-
 #include <unistd.h>
 #include <string.h>
 #include <signal.h>
